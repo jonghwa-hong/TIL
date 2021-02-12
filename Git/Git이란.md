@@ -26,7 +26,7 @@
 
 ### CVCS(**Centralized Version Control)**
 
-![Git%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A1%E1%86%AB%208ff962237d5a4345a5c3d08915509b1a/Untitled.png](Git%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A1%E1%86%AB%208ff962237d5a4345a5c3d08915509b1a/Untitled.png)
+![cvcs](img/cvcs.png)
 
 - 즉각적으로 동기화가 이루어짐 → 최신 서버만 업데이트가 된다.
 - 중앙서버가 무조건 있어야 한다.
