@@ -34,7 +34,7 @@
 
 ### DVCS(**Distributed Version Control)**
 
-![Git%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A1%E1%86%AB%208ff962237d5a4345a5c3d08915509b1a/Untitled%201.png](Git%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A1%E1%86%AB%208ff962237d5a4345a5c3d08915509b1a/Untitled%201.png)
+![dvcs](img/dvcs.png)
 
 - git, mercurial, darcs
 - Repository의 파일 시스템 전체를 snapshot으로 취급. 변경하지 않은 파일은 새로 저장하지 않고 링크만 저장
@@ -71,7 +71,7 @@
 
         ⇒ 이 세 가지 상태는 Git 프로젝트의 세 가지 단계와 연결돼 있다.
 
-        ![Git%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A1%E1%86%AB%208ff962237d5a4345a5c3d08915509b1a/Untitled%202.png](Git%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A1%E1%86%AB%208ff962237d5a4345a5c3d08915509b1a/Untitled%202.png)
+        ![status](img/status.png)
 
     - **Git directory(repository)** : git이 프로젝트를 저장하는 곳. 다른 컴퓨터에 있는 저장소를 `clone` 할 때 git 디렉토리가 생성된다.
 
@@ -89,7 +89,9 @@
     - Staging을 하면 커밋하고 싶은 파일 선택, Commit을 하면 새로운 버전으로 업로드
         - 근데 Staging은 업로드를 2번하는 과정으로 보이는데 왜 굳이 한 번 더 과정을 거치는 걸까???
 
-            ![Git%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A1%E1%86%AB%208ff962237d5a4345a5c3d08915509b1a/Untitled%203.png](Git%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A1%E1%86%AB%208ff962237d5a4345a5c3d08915509b1a/Untitled%203.png)
+            ![lifecycle](img/lifecycle.png)
+            
+            -> 위 그림은 파일의 라이프 사이클이다. 이런 라이프사이클이 계속 반복된다. 아주 중요한 그림이니 숙지하자!!!
 
         - 왜 두가지를 거칠까?
 
