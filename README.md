@@ -9,6 +9,7 @@
   - [커밋 히스토리 조회하기](https://www.notion.so/9fdc820aeab14e82b2bdf7689ebde8b4)
 - What is Branch
   - [브랜치는 무엇인가?](https://www.notion.so/000b23d290b84d49ad3fef860067c5cc)
+  - [브랜치와 Merge의 기초](https://www.notion.so/Merge-1158261014c74b719f9a1349f5f5041b)
 ### Java
 ### Spring
 ### Spring boot
