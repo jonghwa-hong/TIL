@@ -12,6 +12,7 @@
   - [브랜치와 Merge의 기초](https://www.notion.so/Merge-1158261014c74b719f9a1349f5f5041b)
   - [브랜치 관리](https://www.notion.so/78e730286f694338963c14fedfb16c6a)
   - [브랜치 워크플로우](https://www.notion.so/b6c2110974b54481acaa686a69f1c22d)
+  - [리모트 브랜치](https://www.notion.so/650c5106d4234838b06eede4e42be31c)
 ### Java
 ### Spring
 ### Spring boot
