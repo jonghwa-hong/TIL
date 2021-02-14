@@ -13,7 +13,7 @@
   - [브랜치 관리](https://www.notion.so/78e730286f694338963c14fedfb16c6a)
   - [브랜치 워크플로우](https://www.notion.so/b6c2110974b54481acaa686a69f1c22d)
   - [리모트 브랜치](https://www.notion.so/650c5106d4234838b06eede4e42be31c)
-  - [merge confilic](https://www.notion.so/merge-confilict-a413e5596e814b86ab0d6826cddda441)
+  - [merge confilict](https://www.notion.so/merge-confilict-a413e5596e814b86ab0d6826cddda441)
 ### Java
 ### Spring
 ### Spring boot
