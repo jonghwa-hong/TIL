@@ -10,6 +10,7 @@
 - What is Branch
   - [브랜치는 무엇인가?](https://www.notion.so/000b23d290b84d49ad3fef860067c5cc)
   - [브랜치와 Merge의 기초](https://www.notion.so/Merge-1158261014c74b719f9a1349f5f5041b)
+  - [브랜치 관리](https://www.notion.so/78e730286f694338963c14fedfb16c6a)
 ### Java
 ### Spring
 ### Spring boot
