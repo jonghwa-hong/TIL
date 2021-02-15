@@ -16,6 +16,7 @@
   - [merge conflict](https://www.notion.so/merge-confilict-a413e5596e814b86ab0d6826cddda441)
   - [Rebase 하기](https://www.notion.so/Rebase-b62919628fac49b98f2c3b677f2ab276)
 ### Java
+- JVM, JDK, JRE(https://www.notion.so/JVM-JDK-JRE-2134f9b4f9634f2aafbec599bd11e83b)
 ### Spring
 ### Spring boot
 ### Javascript
