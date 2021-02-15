@@ -14,6 +14,7 @@
   - [브랜치 워크플로우](https://www.notion.so/b6c2110974b54481acaa686a69f1c22d)
   - [리모트 브랜치](https://www.notion.so/650c5106d4234838b06eede4e42be31c)
   - [merge conflict](https://www.notion.so/merge-confilict-a413e5596e814b86ab0d6826cddda441)
+  - [Rebase 하기](https://www.notion.so/Rebase-b62919628fac49b98f2c3b677f2ab276)
 ### Java
 ### Spring
 ### Spring boot
