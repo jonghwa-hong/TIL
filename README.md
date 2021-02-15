@@ -18,6 +18,7 @@
 ### Java
 - JVM, JDK, JRE(https://www.notion.so/JVM-JDK-JRE-2134f9b4f9634f2aafbec599bd11e83b)
 - 데이터 타입, 변수, 배열(https://www.notion.so/1fa9f28bbec342e6a02b244c9473f5af)
+- 연산자(https://www.notion.so/58152b975a294ff19f7b879d2a81a9ba)
 ### Spring
 ### Spring boot
 ### Javascript
