@@ -17,6 +17,7 @@
   - [Rebase 하기](https://www.notion.so/Rebase-b62919628fac49b98f2c3b677f2ab276)
 - Git tool
   - [Stashing과 Cleaning](https://www.notion.so/Stashing-Cleaning-9436c631d71c454db641510755d346d8)
+  - [history 관리 및 되돌리기](https://www.notion.so/history-45c03b3b9f894d7da5254f4aaa9aa3c9)
 ### Java
 - [JVM, JDK, JRE](https://www.notion.so/JVM-JDK-JRE-2134f9b4f9634f2aafbec599bd11e83b)
 - [데이터 타입, 변수, 배열](https://www.notion.so/1fa9f28bbec342e6a02b244c9473f5af)
