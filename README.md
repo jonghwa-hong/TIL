@@ -27,6 +27,8 @@
 - [연산자](https://www.notion.so/58152b975a294ff19f7b879d2a81a9ba)
 ### Spring
 ### Spring boot
+#### Thymeleaf
+- [기본 문법](https://www.notion.so/037b781b0fb6462fb728a2528258ca4a)
 ### Javascript
 ### HTML/CSS
 - Bootstrap
