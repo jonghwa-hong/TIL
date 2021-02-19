@@ -29,6 +29,7 @@
 ### Spring boot
 #### Thymeleaf
 - [기본 문법](https://www.notion.so/037b781b0fb6462fb728a2528258ca4a)
+- [화면 구성](https://www.notion.so/Thymeleaf-Layout-a7858985054a49fdb3097dcdb78a53e2)
 ### Javascript
 ### HTML/CSS
 - Bootstrap
