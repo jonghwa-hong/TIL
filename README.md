@@ -46,5 +46,6 @@
   - [함수](https://www.notion.so/602bccef883141c3b9c0d7a09e207962)
 ### Server
   - [인터넷 네트워크](https://www.notion.so/b315af715ec14e6a8939bd608e344938)
+  - [URI 요청흐름](https://www.notion.so/URI-b365c04147d54dba89e2654b15056860)
 ### Algorithm
 - [알고리즘 필요 지식 클래스](https://www.notion.so/34cdf8aa679e4595a2fc4241fa738fc9)
