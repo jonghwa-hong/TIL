@@ -44,6 +44,7 @@
   - [cloneCoding_1](https://github.com/jonghwa-hong/clone-bootstrap1/blob/main/README.md)
 ### Oracle
   - [함수](https://www.notion.so/602bccef883141c3b9c0d7a09e207962)
+  - [관계정보](https://www.notion.so/5e05e912e1b141d8a3871cfb9bf76214)
 ### MyBatis
   - [정리](https://www.notion.so/Mapper-XML-66c4d7b57c5d474680ee30054b1b865b)
 ### Server
