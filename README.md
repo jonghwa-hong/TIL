@@ -31,6 +31,7 @@
 - [기본 문법](https://www.notion.so/037b781b0fb6462fb728a2528258ca4a)
 - [화면 구성](https://www.notion.so/Thymeleaf-Layout-a7858985054a49fdb3097dcdb78a53e2)
 ### Javascript
+- [객체](https://www.notion.so/32c69c574c7742fbb21748081be6e543)
 ### JSP
 - [내 맘대로 총 정리](https://www.notion.so/JSP-def3d3a5229f40699e417952b3e357c0)
 ### HTML/CSS
