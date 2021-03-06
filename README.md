@@ -21,19 +21,7 @@
 - Github
   - [Fork 하기](https://www.notion.so/Fork-4bd03b609728485893f58a716c93794a)
   - [Github 명령어](https://www.notion.so/Github-033e6a4444f543cb943f24ee9289d473)
-### Java
-- [JVM, JDK, JRE](https://www.notion.so/JVM-JDK-JRE-2134f9b4f9634f2aafbec599bd11e83b)
-- [데이터 타입, 변수, 배열](https://www.notion.so/1fa9f28bbec342e6a02b244c9473f5af)
-- [연산자](https://www.notion.so/58152b975a294ff19f7b879d2a81a9ba)
-### Spring
-### Spring boot
-#### Thymeleaf
-- [기본 문법](https://www.notion.so/037b781b0fb6462fb728a2528258ca4a)
-- [화면 구성](https://www.notion.so/Thymeleaf-Layout-a7858985054a49fdb3097dcdb78a53e2)
-### Javascript
-- [객체](https://www.notion.so/32c69c574c7742fbb21748081be6e543)
-### JSP
-- [내 맘대로 총 정리](https://www.notion.so/JSP-def3d3a5229f40699e417952b3e357c0)
+### JavaScript
 ### HTML/CSS
 - Bootstrap
   - [CONTENT](https://www.notion.so/CONTENT-8a318c9a004f4696a36a8d26ee5b9c24)
@@ -46,10 +34,7 @@
 ### Oracle
   - [함수](https://www.notion.so/602bccef883141c3b9c0d7a09e207962)
   - [관계정보](https://www.notion.so/5e05e912e1b141d8a3871cfb9bf76214)
-### MyBatis
-  - [정리](https://www.notion.so/Mapper-XML-66c4d7b57c5d474680ee30054b1b865b)
 ### Server
   - [인터넷 네트워크](https://www.notion.so/b315af715ec14e6a8939bd608e344938)
   - [URI 요청흐름](https://www.notion.so/URI-b365c04147d54dba89e2654b15056860)
 ### Algorithm
-- [알고리즘 필요 지식 클래스](https://www.notion.so/34cdf8aa679e4595a2fc4241fa738fc9)
