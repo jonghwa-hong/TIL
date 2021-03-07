@@ -22,6 +22,7 @@
   - [Fork 하기](https://www.notion.so/Fork-4bd03b609728485893f58a716c93794a)
   - [Github 명령어](https://www.notion.so/Github-033e6a4444f543cb943f24ee9289d473)
 ### JavaScript
+  - 자바스크립트 
 ### HTML/CSS
 - Bootstrap
   - [CONTENT](https://www.notion.so/CONTENT-8a318c9a004f4696a36a8d26ee5b9c24)
