@@ -22,7 +22,18 @@
   - [Fork 하기](https://www.notion.so/Fork-4bd03b609728485893f58a716c93794a)
   - [Github 명령어](https://www.notion.so/Github-033e6a4444f543cb943f24ee9289d473)
 ### JavaScript
-  - 자바스크립트 
+  - 자바스크립트 기본
+    - [자바스크립트란](https://www.notion.so/20d32b1757084b5eb46a239090f41db8)
+    - [script 속성](https://www.notion.so/script-ce937876d5c3488c94e34ff76c1153b5)
+    - [use strict](https://www.notion.so/use-strict-39b42821b3aa46e8a9e080b5d0eac296)
+    - [변수와 상수](https://www.notion.so/46ca0f1624004910891bdfa5c4356742)
+    - [데이터 타입](https://www.notion.so/c6568c8e315d4867b864606dbae1660d)
+    - [alert, prompt, confirm](https://www.notion.so/alert-prompt-confirm-fc8416e5460e4009a2178e3409c4dd8c)
+    - [형 변환](https://www.notion.so/b9309498158d45ee980592364ef31976)
+    - [기본 연산자](https://www.notion.so/aa1407e5b0224614ad517d71bf5bb8d0)
+    - [비교 연산자](https://www.notion.so/c5a8081b3b5d4a58ba9c08ed469b71cd)
+    - [if와 ?를 사용한 조건 처리](https://www.notion.so/if-45b1ac2c4bb541e7bc8c9fcc59e972f3)
+    - [논리 연산자](https://www.notion.so/f2ad20e61830464b9bc59e783169a74d)
 ### HTML/CSS
 - Bootstrap
   - [CONTENT](https://www.notion.so/CONTENT-8a318c9a004f4696a36a8d26ee5b9c24)
